@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"tmp"
+			],
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"FuzzyFilePath":
+		{
+		}
+	}
+}

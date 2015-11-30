@@ -1,0 +1,1 @@
+/Users/yuri/projects/lyrics/tmp/broccoli_merge_trees-input_base_path-2N4rynwo.tmp/2/reexports/ember-cli-app-version.js

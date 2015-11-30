@@ -1,0 +1,6 @@
+<ul class="random-lyrics">
+    {{#each model.lyrics as |lyric|}}
+		{{lyric-item lyric=lyric}}
+    {{/each}}
+</ul>
+{{outlet}}

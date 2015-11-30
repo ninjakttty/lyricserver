@@ -1,0 +1,9 @@
+<li class="{{if artist.favorite "favorite" }}">
+	  {{#if artist.favorite}}
+		  {{fa-icon icon="heart" class="req"  click=(action "changeFavorite" artist)}}
+		{{else}}
+			{{fa-icon icon="heart-o" class="req"  click=(action "changeFavorite" artist)}}
+	{{/if}}
+	{{artist.name}}
+</li>
+{{yield}}

@@ -1,0 +1,1 @@
+/Users/yuri/projects/lyrics/tmp/funnel-input_base_path-baGg3XRw.tmp/0/bower_components/ember-cli-test-loader/test-loader.js

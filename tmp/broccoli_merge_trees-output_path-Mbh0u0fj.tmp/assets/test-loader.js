@@ -1,0 +1,1 @@
+/Users/yuri/projects/lyrics/bower_components/ember-cli-test-loader/test-loader.js

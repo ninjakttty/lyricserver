@@ -1,0 +1,1087 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"log	JS - Log to console"
+			],
+			[
+				"if",
+				"ifel	if else(handlebars)"
+			],
+			[
+				"arti",
+				"artist"
+			],
+			[
+				"link",
+				"linkto	{{#link-to}} {{/link-to}}"
+			],
+			[
+				"art",
+				"artists"
+			],
+			[
+				"un",
+				"unless	{{#unless }} {{unless}}"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"time",
+				"timeout	setTimeout function"
+			],
+			[
+				"ser",
+				"serverList"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"function",
+				"function(){\n	$0\n})();	(function(){\n	$0\n})();"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"in",
+				"initialize"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"setimeo",
+				"setTimeout(${0:func}, delay)	Window"
+			],
+			[
+				"compat",
+				"comparator"
+			],
+			[
+				"at",
+				"attributes"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"le",
+				"length	Array"
+			],
+			[
+				"curr",
+				"currentTarget	Event"
+			],
+			[
+				"server",
+				"serverList"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"serv",
+				"serverTmpl"
+			],
+			[
+				"Des",
+				"Destroy"
+			],
+			[
+				"Ma",
+				"Marionette.Application"
+			],
+			[
+				"lay",
+				"Layout"
+			],
+			[
+				"j",
+				"jsCodeToTranspile"
+			],
+			[
+				"media",
+				"mediaviewer"
+			],
+			[
+				"reu",
+				"require"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"cons",
+				"console	console.log()"
+			],
+			[
+				"cl",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/routes/artists.js",
+			"settings":
+			{
+				"buffer_size": 341,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/users.hbs",
+			"settings":
+			{
+				"buffer_size": 28,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<h2 id=\"title\">Welcome to Ember</h2>\n{{outlet}}\n\n<footer>\n	{{#link-to 'index'}}Home{{/link-to}}\n	{{#link-to 'artists'}}Artists{{/link-to}}\n	{{#link-to 'users'}}Users{{/link-to}}\n</footer>\n",
+			"file": "app/templates/application.hbs",
+			"file_size": 187,
+			"file_write_time": 130932971060000000,
+			"settings":
+			{
+				"buffer_size": 188,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/artist.js",
+			"settings":
+			{
+				"buffer_size": 125,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/adapters/artists.js",
+			"settings":
+			{
+				"buffer_size": 97,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/artists.hbs",
+			"settings":
+			{
+				"buffer_size": 283,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"text",
+				"Text Pastry: Paste"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"jsc",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"isnt",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"bash",
+				"Build With: Bash"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"shel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"Package Control: s",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packag",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"for",
+				"Format CSS: Expanded"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"package",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"instla",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"IN",
+				"Package Control: Install Package"
+			],
+			[
+				"mario",
+				"Snippet: Backbone.Marionette Application"
+			],
+			[
+				"instlk",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 539.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/yuri/projects/lyrics",
+		"/Users/yuri/projects/lyrics/app",
+		"/Users/yuri/projects/lyrics/app/adapters",
+		"/Users/yuri/projects/lyrics/app/components",
+		"/Users/yuri/projects/lyrics/app/controllers",
+		"/Users/yuri/projects/lyrics/app/helpers",
+		"/Users/yuri/projects/lyrics/app/models",
+		"/Users/yuri/projects/lyrics/app/routes",
+		"/Users/yuri/projects/lyrics/app/templates",
+		"/Users/yuri/projects/lyrics/app/templates/components"
+	],
+	"file_history":
+	[
+		"/Users/yuri/projects/lyrics/app/router.js",
+		"/Users/yuri/projects/lyrics/app/templates/user.hbs",
+		"/Users/yuri/projects/lyrics/app/templates/application.hbs",
+		"/Users/yuri/projects/lyrics/bower.json",
+		"/Users/yuri/projects/lyrics/app/adapters/application.js",
+		"/Users/yuri/Library/Caches/Cleanup At Startup/Transmit/BBD76EBA-45DD-4A21-B25A-12D7A5387C10/db.json",
+		"/Users/yuri/projects/lyrics/dist/assets/vendor.js",
+		"/Users/yuri/projects/lyrics/config/environment.js",
+		"/Users/yuri/projects/lyrics/app/mirage/config.js",
+		"/Users/yuri/projects/lyrics/dist/assets/lyrics.map",
+		"/Users/yuri/projects/lyric/lyrics/app/templates/albums.hbs",
+		"/Users/yuri/projects/lyric/lyrics/app/templates/components/album-list.hbs",
+		"/Users/yuri/projects/lyric/lyrics/app/templates/components/track-item.hbs",
+		"/Users/yuri/projects/lyric/lyrics/app/templates/components/lyrics-item.hbs",
+		"/Users/yuri/projects/dotfiles/osx_defaults.sh",
+		"/Users/yuri/projects/dotfiles/nodejs.sh",
+		"/Users/yuri/projects/dotfiles/homebrew.sh",
+		"/Users/yuri/.alias",
+		"/Users/yuri/projects/lyrics/package.json",
+		"/Users/yuri/projects/lyrics/app/routes/artists/albums.js",
+		"/Users/yuri/projects/lyrics/app/adapters/artist.js",
+		"/Users/yuri/projects/lyrics/app/routes/artists.js",
+		"/Users/yuri/projects/lyrics/app/routes/artists/index.js",
+		"/Users/yuri/projects/lyrics/app/routes/artists/artist.js",
+		"/Users/yuri/Desktop/json/npmjson.txt",
+		"/Users/yuri/Desktop/collection.txt",
+		"/Users/yuri/projects/lyrics/app/templates/components/artist-list.hbs",
+		"/Users/yuri/projects/lyrics/app/components/artist-list.js",
+		"/Users/yuri/projects/lyrics/app/templates/artists.hbs",
+		"/Users/yuri/projects/lyrics/app/styles/app.css",
+		"/Users/yuri/projects/lyrics/app/templates/artists/artist.hbs",
+		"/Users/yuri/projects/lyrics/app/mirage/scenarios/default.js",
+		"/Users/yuri/projects/lyrics/app/templates/components/lyric-input.hbs",
+		"/Users/yuri/projects/lyrics/app/components/lyric-input.js",
+		"/Users/yuri/projects/lyrics/app/routes/artist/index.js",
+		"/Users/yuri/projects/lyrics/app/mirage/factories/artist.js",
+		"/Users/yuri/projects/lyrics/app/models/artist.js",
+		"/Users/yuri/projects/lyrics/app/mirage/factories/contact.js",
+		"/Users/yuri/projects/lyrics/app/templates/components/artists-song.hbs",
+		"/Users/yuri/projects/lyrics/app/templates/components/artist-item.hbs",
+		"/Users/yuri/projects/lyrics/app/components/artist-item.js",
+		"/Users/yuri/projects/lyrics/app/templates/artists/index.hbs",
+		"/Users/yuri/.jscsrc",
+		"/Users/yuri/.bash_profile",
+		"/Users/yuri/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/yuri/projects/lyrics/app/app.js",
+		"/Users/yuri/.zshenv",
+		"/Users/yuri/Library/Application Support/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/yuri/Downloads/TutsPlus EmberJS Framework Basics/Please Read Me...!!.txt",
+		"/Users/yuri/Desktop/text.txt",
+		"/Users/yuri/Documents/Seeding/brokenstones/IPNetMonitorX 2.6.7/How to Register.txt",
+		"/Users/yuri/temp/todo/app/templates/components/todo-item.hbs",
+		"/Users/yuri/temp/todo/app/components/todo-item.js",
+		"/Users/yuri/temp/todo/app/routes/todos/complete.js",
+		"/Users/yuri/temp/todo/app/templates/components/todo-list.hbs",
+		"/Users/yuri/temp/todo/app/templates/todos.hbs",
+		"/Users/yuri/temp/todo/app/components/todo-list.js",
+		"/Users/yuri/temp/todo/app/app.js",
+		"/Users/yuri/temp/todo/app/routes/todos/incomplete.js",
+		"/Users/yuri/temp/todo/app/components/todo-input.js",
+		"/Users/yuri/temp/todo/app/mirage/config.js",
+		"/Users/yuri/temp/todo/app/mirage/factories/todo.js",
+		"/Users/yuri/temp/todo/app/templates/todos/index.hbs",
+		"/Users/yuri/temp/todo/app/routes/todos.js",
+		"/Users/yuri/temp/todo/config/environment.js",
+		"/Users/yuri/temp/todo/bower.json",
+		"/Users/yuri/projects/lyrics/app/routes/index.js",
+		"/Users/yuri/projects/lyrics/app/routes/users.js",
+		"/Users/yuri/projects/lyrics/app/templates/users.hbs",
+		"/Users/yuri/projects/lyrics/app/templates/index.hbs",
+		"/Users/yuri/projects/lyrics/app/routes/trials.js",
+		"/Users/yuri/projects/lyrics/app/routes/songs.js",
+		"/Users/yuri/projects/lyrics/app/templates/trials.hbs",
+		"/Users/yuri/projects/lyrics/app/templates/songs.hbs",
+		"/Users/yuri/projects/lyrics/app/templates/components/song-list.hbs",
+		"/Users/yuri/projects/lyrics/app/templates/components/customer-list.hbs",
+		"/Users/yuri/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/yuri/.zshrc",
+		"/Users/yuri/Library/Caches/Cleanup At Startup/Transmit/DDDCCFDE-8BA5-42BF-AA34-0FCA6C16C94A/settings.json",
+		"/usr/local/Library/Taps/caskroom/homebrew-cask/Casks/crossshare.rb",
+		"/Users/yuri/bin/brewd.sh",
+		"/Users/yuri/hi",
+		"/Users/yuri/.bashrc",
+		"/Users/yuri/.bash_login",
+		"/Users/yuri/.bash_history",
+		"/Users/yuri/Library/Caches/Cleanup At Startup/Transmit/285FE378-44EF-423E-B5F8-4DD138E14DF4/settings.json",
+		"/Users/yuri/Desktop/untitled folder 2/var11n/var11n",
+		"/Users/yuri/Desktop/voices.sh",
+		"/Users/yuri/temp/voiuce.sh",
+		"/Users/yuri/Desktop/Music.txt",
+		"/Volumes/media/Music/Playlists/trip trip/trip trip.m3u",
+		"/Users/yuri/bin/filebot-amc.sh",
+		"/Users/yuri/Dropbox/Public/resume/just text",
+		"/Users/yuri/Downloads/[BT]",
+		"/Users/yuri/Desktop/OS X 10.11 El Capitan VMware Image/README.txt",
+		"/Users/yuri/Desktop/test/baddatA/OS X 10.11 El Capitan VMware Image/README.txt",
+		"/Users/yuri/Downloads/mailFilters.xml",
+		"/Users/yuri/Desktop/untitled folder 2/iso-maker.sh",
+		"/Volumes/media/Software/Computron/vms/El Capitan /iso-maker.sh",
+		"/Users/yuri/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/yuri/projects/butterproject.github.io/metadata.json",
+		"/Users/yuri/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/yuri/Library/Application Support/Firefox/Profiles/ti5ljcrh.default/gm_scripts/NKYP_Empornium_Preview/NKYP_Empornium_Preview.user.js",
+		"/Users/yuri/temp/trans.txt",
+		"/Volumes/yuri-1/projects/dotfiles/app_store.sh",
+		"/Volumes/yuri-1/projects/dotfiles/bootstrap.sh",
+		"/Volumes/yuri-1/projects/dotfiles/homebrew.sh",
+		"/yuri-1/projects/dotfiles",
+		"/Users/yuri/Downloads/OS X 10.11 El Capitan VMware Image/README.txt",
+		"/Users/yuri/Desktop/not wallpaper/trip trip/trip trip.m3u",
+		"/Users/yuri/Library/Mobile Documents/com~apple~CloudDocs/mejuice.html",
+		"/Users/yuri/Library/Caches/Cleanup At Startup/Transmit/D2614E9C-4A26-489C-B9CF-DE7913164E40/sudoers",
+		"/Users/yuri/Library/Mobile Documents/com~apple~TextEdit/Documents/osx defaults.txt",
+		"/Users/yuri/.zcompdump-iMac-5.0.8",
+		"/Users/yuri/.zsh-update",
+		"/Users/yuri/.zsh_history",
+		"/Users/yuri/projects/mesosphere-challenge/app/styles/app.less",
+		"/Users/yuri/projects/mesosphere-challenge/app/index.html",
+		"/Users/yuri/projects/mesosphere-challenge/app/scripts/modules/appList/index.js",
+		"/Users/yuri/projects/mesosphere-challenge/app/scripts/modules/server/app.ejs",
+		"/Users/yuri/projects/mesosphere-challenge/app/scripts/app.js",
+		"/Users/yuri/projects/mesosphere-challenge/app/scripts/modules/canvas/template.ejs",
+		"/Users/yuri/projects/mesosphere-challenge/app/scripts/modules/canvas/index.js",
+		"/Users/yuri/projects/mesosphere-challenge/app/scripts/modules/server/index.js",
+		"/Users/yuri/projects/mesosphere-challenge/app/scripts/modules/sidebar/index.js",
+		"/Users/yuri/projects/mesosphere-challenge/app/scripts/modules/appList/template.ejs",
+		"/Users/yuri/projects/mesosphere-challenge/app/scripts/modules/sidebar/template.ejs",
+		"/Users/yuri/projects/mesosphere-challenge/.build/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>",
+			"openFiles",
+			"/Users/yuri/projects/lyrics/app",
+			"/Users/yuri/projects/lyrics",
+			"",
+			"/Users/yuri/Dropbox",
+			"/Users/yuri/Dropbox/dotfiles",
+			"/Users/yuri/projects/mesosphere-challenge/app",
+			"/Users/yuri/projects/mesosphere-challenge/app/scripts",
+			"/Users/yuri/projects/mesosphere-challenge/app/scripts/views",
+			"/Users/yuri/projects/mesosphere-challenge/app",
+			"/Users/yuri/Desktop/mesosphere/mesosphere/.build",
+			"/Users/yuri/Downloads/System_log-stuffer-20150810-200649",
+			"/Users/yuri/temp/homebrew-cask/Casks",
+			"/Users/yuri/Dropbox/dotfiles",
+			"/Users/yuri/temp/frontview/ui/resource",
+			"/Users/yuri/Dropbox/dotfiles/imac"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"div",
+			"this.store",
+			"edit",
+			"name",
+			"todos",
+			"id",
+			"\"3\"",
+			"\"2\"",
+			"\"1\"",
+			"comment",
+			"comments",
+			"debugger",
+			"---",
+			"lyri",
+			"mirage",
+			"track",
+			"artist",
+			"this.store.find",
+			"watchman",
+			" ",
+			"\"{}\"",
+			"\"",
+			"\" -H",
+			"\" ",
+			"curl -X \"GET\" \"http://api.musixmatch.com/ws/1.1/chart.tracks.get?apikey=ca0ed149d6b4d43fdce18b7c5aa79cbf&format=json&track_id=\" -H \"Content-Type: application/json\" -d \"{}\"\n\n",
+			"curl -X \"GET\" \"http://api.musixmatch.com/ws/1.1/chart.tracks.get?apikey=ca0ed149d6b4d43fdce18b7c5aa79cbf&format=json&track_id=\" -H \"Content-Type: application/json\" -d \"{}\"",
+			"commontrack_id",
+			"_id",
+			"id_",
+			"mira",
+			"mirage",
+			"load",
+			"schema",
+			"manipulat",
+			"PopAr",
+			" ",
+			"B",
+			"deb",
+			"debugger",
+			"String",
+			"div>",
+			"h1>",
+			"linkcom",
+			"<div class=\"navItem\">",
+			"li>",
+			"<li",
+			"li",
+			"ul",
+			"post",
+			"Post",
+			"post",
+			"Post",
+			"post",
+			"Post",
+			"post",
+			"Post",
+			"post",
+			"debug",
+			".get('name')",
+			"unread",
+			"store",
+			"post",
+			"debugg",
+			"Todo",
+			"todo",
+			"Artist",
+			"todo",
+			"todos",
+			"todo",
+			"title",
+			"todo",
+			"todos",
+			"todo",
+			"todo.complete",
+			"todo",
+			"complete",
+			"title",
+			"node_modules",
+			"*/",
+			" ",
+			",",
+			"s",
+			"del",
+			"': ",
+			": ",
+			"user",
+			"welcome to",
+			"musical",
+			", ",
+			"welcome to",
+			"npm",
+			"node",
+			"tall",
+			"ql",
+			"hist",
+			"echo",
+			"eztvapi",
+			"tv",
+			"ap_essid",
+			"ap_",
+			"bridge",
+			"=",
+			" ",
+			"&&",
+			"install ",
+			"Install ",
+			"Install",
+			"grant",
+			"ninjakitty.net",
+			"&& ",
+			"http://",
+			"http:/",
+			"http://",
+			"# ",
+			"#",
+			"=\"",
+			" &&",
+			".",
+			"echo \"",
+			"them",
+			"TR_NAME",
+			"TR_DIR",
+			"TARGET_DIR",
+			"TR_",
+			"TR_TORRENT_DIR",
+			"=",
+			"TR",
+			"="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\" -H",
+			" -",
+			"artist"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/routes/artists.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/templates/users.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/templates/application.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/models/artist.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/adapters/artists.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 97,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/templates/artists.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								205,
+								219
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 217.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "Packages/Bash Build System/Bash.sublime-build",
+	"project": "lyrics.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"artists.js",
+				"app/routes/artists.js"
+			],
+			[
+				"env",
+				"config/environment.js"
+			],
+			[
+				"vendor",
+				"dist/assets/vendor.js"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"rout",
+				"app/router.js"
+			],
+			[
+				"artists",
+				"app/routes/artists.js"
+			],
+			[
+				"lyric",
+				"app/routes/tracks/lyrics.js"
+			],
+			[
+				"load-json-file",
+				"node_modules/load-json-file/readme.md"
+			],
+			[
+				"tx",
+				"npmjson.txt"
+			],
+			[
+				"artlist",
+				"components/artist-list.js"
+			],
+			[
+				"confi",
+				"mirage/config.js"
+			],
+			[
+				"item",
+				"templates/components/artist-item.hbs"
+			],
+			[
+				"rou",
+				"routes/artists.js"
+			],
+			[
+				"lyr",
+				"components/lyric-input.js"
+			],
+			[
+				"app.cs",
+				"styles/app.css"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"",
+				"routes/artists.js"
+			],
+			[
+				"js",
+				"router.js"
+			],
+			[
+				"envi",
+				"config/environment.js"
+			],
+			[
+				"app.c",
+				"app/styles/app.css"
+			],
+			[
+				"router",
+				"app/router.js"
+			],
+			[
+				"app",
+				"app/scripts/app.js"
+			],
+			[
+				"app.js",
+				"app/scripts/app.js"
+			],
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"ubuntu64-bit15.04.vmx",
+				"Ubuntu 64-bit 15.04.vmx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

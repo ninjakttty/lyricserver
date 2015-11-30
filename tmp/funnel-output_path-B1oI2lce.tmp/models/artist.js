@@ -1,0 +1,1 @@
+/Users/yuri/projects/lyrics/tmp/funnel-input_base_path-NQ0beODs.tmp/0/models/artist.js
