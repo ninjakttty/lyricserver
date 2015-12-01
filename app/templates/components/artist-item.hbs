@@ -1,4 +1,4 @@
-<li class="{{if artist.favorite "favorite" }}">
+<div class="{{if artist.favorite "favorite" }}">
     {{#if artist.favorite}}
     	{{fa-icon icon="heart" class="req" click=(action "changeFavorite" artist)}}
     {{else}}
@@ -6,6 +6,6 @@
     {{/if}}
     
     {{artist.name}}
-</li>
+</div>
 
 {{yield}}
